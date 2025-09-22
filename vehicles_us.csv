@@ -1,0 +1,7 @@
+price,model_year,model,condition,cylinders,fuel,odometer,transmission,type,paint_color,is_4wd,date_posted,days_listed
+6000,2011.0,ford f-150,good,6.0,gas,145000.0,automatic,pickup,white,1.0,2018-06-23,19
+3500,2011.0,dodge ram 1500,good,6.0,gas,186000.0,automatic,pickup,black,1.0,2018-06-22,33
+2500,2006.0,ford f-150,good,6.0,gas,201000.0,automatic,pickup,white,1.0,2018-06-20,31
+2800,2004.0,chevrolet silverado 1500,good,8.0,gas,201000.0,automatic,pickup,red,0.0,2018-06-19,26
+10000,2013.0,ford f-150,like new,6.0,gas,80000.0,automatic,pickup,black,1.0,2018-06-18,22
+5000,2011.0,ford f-150,excellent,6.0,gas,130000.0,automatic,pickup,red,1.0,2018-06-17,15
